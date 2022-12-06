@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T04:04:59.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.61" etag="meSui_qyGavCwWibivBI" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T04:47:20.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.61" etag="K5nzeSoYZt4HjuWsghDs" version="20.6.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="110" width="1300" height="950" as="geometry" />
+          <mxGeometry x="170" y="110" width="1370" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="1280" height="280" as="geometry" />
+          <mxGeometry x="20" width="1350" height="420" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-23" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
@@ -28,23 +28,26 @@
             <mxPoint x="889.9999999999995" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--67" value="SRO QTRIP Draft&amp;nbsp;sign-off" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="810" y="320" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--69" value="&lt;b&gt;&lt;u&gt;PDO review (Tyson Young)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;-Central West&lt;br&gt;- Darling downs&lt;br&gt;- Far North&lt;br&gt;- Fitzroy&lt;br&gt;- Mackay Whitsunday&lt;br&gt;- Metropolitan&lt;br&gt;- North Coast&lt;br&gt;- North west&lt;br&gt;- Northern&lt;br&gt;- South Coast&lt;br&gt;- South West&lt;br&gt;- Wide Bay Burnett" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="560" y="110" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--70" value="&lt;u style=&quot;font-weight: bold;&quot;&gt;Non-PDO review&lt;/u&gt;&lt;br&gt;-Translink&lt;br&gt;- Queensland Rail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="560" y="340" width="190" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="280" width="1280" height="375" as="geometry" />
+          <mxGeometry x="20" y="420" width="1350" height="375" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--21" value="January Lite Review (significant investment)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="190" y="80" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--22" value="QTRIP publication review and Consultation (Feb - Mar)&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Coordinator:&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-PIP (&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Team?&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Action:&lt;/span&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Delivery area (Program Owners) review to ensure project details, budgets and expenditure flows are accurate&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sign off:&lt;/span&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-SRO&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="400" y="20" width="400" height="150" as="geometry" />
+        <mxCell id="J4HFlhDhFd4bc666YAR--22" value="&lt;b&gt;&lt;u&gt;QTRIP Draft publication review and consultation (Feb - Mar)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Coordinator:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PIP (&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Team?&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Action:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Delivery area required to ensure milestones&amp;nbsp;and forecasts are accurate, update and align budgets and expenditure flows.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Action: PIP to confirm with Finance (Michael Dale) QTRIP funding allocation and availability.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="430" y="30" width="460" height="120" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--33" value="Draft Priority projects list released" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="360" y="260" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--35" value="Final Priority projects list released" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="680" y="250" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--45" value="QTRIP consultation (May)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="920" y="80" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--46" value="Expenditure flows finalised (June)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="1090" y="80" width="150" height="60" as="geometry" />
@@ -59,10 +62,13 @@
           <mxGeometry x="1180" y="195" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--51" value="ICC 1st submission&lt;br&gt;Lead: PIP (&lt;b&gt;TEAM?)&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="800" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="830" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--45" value="QTRIP consultation (May)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="1100" y="10" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="655" width="1280" height="295" as="geometry" />
+          <mxGeometry x="20" y="795" width="1350" height="295" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--43" value="Federal Budget released (May)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="900" y="35" width="100" height="60" as="geometry" />
@@ -73,17 +79,17 @@
         <mxCell id="J4HFlhDhFd4bc666YAR--50" value="Release June" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="800" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="Quarter 2 - October to December&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="210" y="80" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dNxyNK7c78bLwvsdeMH5-23" target="dNxyNK7c78bLwvsdeMH5-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="J4HFlhDhFd4bc666YAR--56" value="Quarter 3 - January to March&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="620" y="80" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--57" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="80" width="390" height="30" as="geometry" />
+        <mxCell id="J4HFlhDhFd4bc666YAR--57" value="Quarter 4 - April to June" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="80" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="J4HFlhDhFd4bc666YAR--56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
