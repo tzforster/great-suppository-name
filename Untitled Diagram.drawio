@@ -1,17 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T01:05:09.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.61" etag="oE8zSxQZIGkWE8z45MST" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-07T01:23:53.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.61" etag="sSIZcGJb4aMNBq-v-bWW" version="20.6.0" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2515" dy="1332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1211" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="90" width="2912.5" height="1250" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="DELIVERY AREAS (including PDO districts and non-PDO areas such as Translink)" style="swimlane;html=1;startSize=40;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="DELIVERY AREAS (including PDO districts and non-PDO areas such as Translink)" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="2892.5" height="570" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-30" value="ANNUAL TIPPS PREPERATION" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="60" y="50" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -37,25 +34,16 @@
             <mxPoint x="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--111" value="Confirm Strategic priorities&lt;br&gt;Determine indicative 10-year funding envelope (Finance and Procurement and PIP)&lt;br&gt;Review current portfolio investment status&lt;br&gt;Review 10-year funding profile&lt;br&gt;Validate and prioritise candidate investments&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="60" y="90" width="640" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--115" value="IIC sign off" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="310" y="210" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--116" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="J4HFlhDhFd4bc666YAR--111" target="J4HFlhDhFd4bc666YAR--115">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="110" as="sourcePoint" />
-            <mxPoint x="660" y="60" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="J4HFlhDhFd4bc666YAR--111" value="&lt;b&gt;&lt;u&gt;ANNUAL TIPPS PREPERATION&lt;br&gt;&lt;/u&gt;&lt;/b&gt;Confirm Strategic priorities&lt;br&gt;Determine indicative 10-year funding envelope (Finance and Procurement and PIP)&lt;br&gt;Review current portfolio investment status&lt;br&gt;Review 10-year funding profile&lt;br&gt;Validate and prioritise candidate investments" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="70" y="60" width="660" height="110" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--131" value="&lt;b&gt;&lt;u&gt;QTRIP development and review of existing investment program&lt;br&gt;&lt;/u&gt;&lt;/b&gt;Identify and prioritise new candidate projects, develop proposed budgets and milestones&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="730" y="150" width="1420" height="80" as="geometry" />
+          <mxGeometry x="730" y="220" width="1160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--165" value="&lt;b&gt;SRO/PDO&lt;br&gt;approval&lt;/b&gt;&lt;br&gt;15 Investment&lt;br&gt;Programs" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="2215" y="385" width="130" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="PORTFOLIO INVESTMENT AND PLANNING (SIAM / PD&amp;amp;P leads QTRIP)&amp;nbsp;" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="PORTFOLIO INVESTMENT AND PLANNING&lt;br&gt;(SIAM / PD&amp;amp;P leads QTRIP)&amp;nbsp;" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="570" width="2892.5" height="360" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--126" target="J4HFlhDhFd4bc666YAR--174">
@@ -91,13 +79,13 @@
             <mxPoint x="1794.7899200000002" y="108.83999999999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="FINANCE AND PROCUREMENT" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="FINANCE AND&lt;br&gt;PROCUREMENT" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="930" width="2892.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--172" value="Confirm QTRIP funding allocation&lt;br&gt;&lt;b&gt;(CFO approval)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="1670" y="30" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--123" value="INFRASTRUCTURE INVESTMENT COMMITTEE (DG Chair)" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
+        <mxCell id="J4HFlhDhFd4bc666YAR--123" value="INFRASTRUCTURE INVESTMENT&lt;br&gt;COMMITTEE (DG Chair)" style="swimlane;html=1;startSize=70;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="20" y="1050" width="2892.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J4HFlhDhFd4bc666YAR--176" value="IIC&amp;nbsp; endorsed" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="J4HFlhDhFd4bc666YAR--123">
