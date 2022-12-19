@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T05:46:59.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.61" etag="DClhviYIBYRkNYg0EdKj" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-19T06:01:19.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.61" etag="y8aXQnHnM5G7HPRH759q" version="20.6.0" type="github" pages="3">
   <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
     <mxGraphModel dx="1814" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,13 +31,13 @@
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-41" value="JUNE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
           <mxGeometry x="1220" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-46" value="10. Regional Directors (RD) approve final draft QTRIP (email sent to RDs - 2 days to review)&amp;nbsp; &amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-46" value="10. Regional Directors (RD) endorse draft QTRIP&lt;br&gt;publication&lt;br&gt;(1 June)&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
           <mxGeometry x="1070" y="130" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-76" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Delivery area review&lt;br&gt;&lt;/span&gt;&lt;b&gt;(is this to verify tables and text?)&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
           <mxGeometry x="746" y="230" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-80" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Delivery areas review&lt;br&gt;QTRIP publication&amp;nbsp;inclusive&lt;br&gt;of new CBRC&lt;br&gt;outcomes (24 May)&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-80" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Delivery areas review&lt;br&gt;QTRIP publication&lt;br&gt;inclusive of CBRC&lt;br&gt;outcomes (24 May)&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
           <mxGeometry x="920" y="230" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-85" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;fontSize=10;endSize=6;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-2" edge="1">
@@ -52,7 +52,7 @@
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-100" value="Controlled change end: PCRs open for approval by 30 June" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
           <mxGeometry x="1276" y="40" width="174" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oTxpOXQzTmKI59_1Gvsa-10" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1.&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Regions and Program Management and Delivery (PMD) d&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;evelop current year QTRIP, including&amp;nbsp;review of existing QTRIP by early April.&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Development of new QTRIP projects and revisions to existing projects and budgets.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Regional Programs approved by General Manager (PDO)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Once approved, Regions and PMD finalise details through 3PCM (early April).&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;What is the process for non-PDO programs (who approves)?&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-10" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1.&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Regions and Program Management and Delivery (PMD) d&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;evelop current year QTRIP, including&amp;nbsp;review of existing QTRIP.&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Development of new QTRIP projects and revisions to existing projects and budgets.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Regional Programs approved by General Manager (PDO)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Once approved, Regions and PMD finalise details through 3PCM (around 3 April).&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;What is the process for non-PDO programs (who approves)?&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
           <mxGeometry x="40" y="190" width="700" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=0.2;fontSize=10;endSize=6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" target="1NMxPis9Ar9ZYOywmdkB-46" edge="1">
@@ -65,28 +65,31 @@
           <mxGeometry y="340" width="1460" height="410" as="geometry" />
         </mxCell>
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-8" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;QTRIP baseline - profile to Finance (actual process, emails?)&amp;nbsp;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
-          <mxGeometry x="1270" y="280" width="190" height="50" as="geometry" />
+          <mxGeometry x="1270" y="360" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-16" value="12.QTRIP released in budget week on website" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;strokeWidth=4;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-16" value="12.QTRIP released on TMR website in line with state budget" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;strokeWidth=4;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
           <mxGeometry x="1280" y="23" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7. QTRIP publication review&lt;br&gt;V.4 (draft publication)&lt;br&gt;Update with CBRC outcomes circulated by PFA (24 May)&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7. QTRIP publication&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;V0.4 draft publication)&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;circulated by PFA for&lt;br&gt;review by 24 May (includes CBRC outcomes)&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
           <mxGeometry x="920" y="23" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oTxpOXQzTmKI59_1Gvsa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;" parent="1NMxPis9Ar9ZYOywmdkB-3" source="1NMxPis9Ar9ZYOywmdkB-50" target="1NMxPis9Ar9ZYOywmdkB-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-50" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;9. FINAL QTRIP&lt;br&gt;&amp;nbsp;REVIEW V.5 publication&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+        <mxCell id="UMWtJVkDgTL3G8nmxIHJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1NMxPis9Ar9ZYOywmdkB-3" source="1NMxPis9Ar9ZYOywmdkB-50" target="UMWtJVkDgTL3G8nmxIHJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-50" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;9. QTRIP (V0.5 Draft&lt;br&gt;publication) emailed to&lt;br&gt;Regional Directors by PFA&lt;br&gt;for approval (29 May)&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
           <mxGeometry x="1060" y="23" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-52" value="8. ICC approved&lt;br&gt;QTRIP program" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
-          <mxGeometry x="1010" y="130" width="110" height="109.09" as="geometry" />
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-52" value="8. ICC considers and approves draft&amp;nbsp;&lt;br&gt;QTRIP publication&lt;br&gt;(31 May)" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="996" y="130" width="130" height="128.92" as="geometry" />
         </mxCell>
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-68" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;4. QTRIP publication&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(V0.3 tables&lt;br&gt;and text)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;circulated&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;by PFA&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;for review (complete 28 April)&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
           <mxGeometry x="740" y="23" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-69" value="5. Fisr QTRIP submission to ICC - program status (end April)" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
-          <mxGeometry x="860" y="130" width="110" height="109.09" as="geometry" />
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-69" value="5. ICC considers of&lt;br&gt;first draft QTRIP - ie. program status (26 April)" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="856" y="130" width="130" height="128.92" as="geometry" />
         </mxCell>
         <mxCell id="wJCfLTcxVVwtHicSg1OE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1NMxPis9Ar9ZYOywmdkB-3" source="1NMxPis9Ar9ZYOywmdkB-75" target="wJCfLTcxVVwtHicSg1OE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -94,14 +97,21 @@
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-75" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;2. QTRIP publication review process undertaken by PFA&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;QTRIP Tables and QTRIP Excel provided to delivery areas by PFA for data integrity checks (by 14 Feb and 24 March).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Program&amp;nbsp;change requests approved by delegate (PIP Business Program Manager) by 31 March&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
           <mxGeometry x="250" y="23" width="480" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oTxpOXQzTmKI59_1Gvsa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;" parent="1NMxPis9Ar9ZYOywmdkB-3" source="1NMxPis9Ar9ZYOywmdkB-81" target="1NMxPis9Ar9ZYOywmdkB-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-81" value="11. Cabinet and&lt;br&gt;Minister approval (&lt;b&gt;detail steps and timeframes)&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
-          <mxGeometry x="1160" y="130" width="110" height="109.09" as="geometry" />
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-81" value="Cabinet considers QTRIP (5 June)" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="1160" y="130" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wJCfLTcxVVwtHicSg1OE-1" value="QTRIP submission if required e.g. funding pressures (&lt;b style=&quot;font-size: 11px;&quot;&gt;where is this generated and how?&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
           <mxGeometry x="350" y="230" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMWtJVkDgTL3G8nmxIHJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1NMxPis9Ar9ZYOywmdkB-3" source="UMWtJVkDgTL3G8nmxIHJ-1" target="1NMxPis9Ar9ZYOywmdkB-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1334" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMWtJVkDgTL3G8nmxIHJ-1" value="Approval of QTRIP by TMR Minister (9 June)" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1NMxPis9Ar9ZYOywmdkB-3">
+          <mxGeometry x="1216" y="210" width="94" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-4" value="CFO (Management&#xa;Reporting and Analysis)" style="swimlane;startSize=40;horizontal=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" vertex="1">
           <mxGeometry y="750" width="1460" height="170" as="geometry" />
