@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T06:01:19.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.61" etag="y8aXQnHnM5G7HPRH759q" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-19T06:04:24.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.61" etag="UZp4UabESwPVe-sGUHHZ" version="20.6.0" type="github" pages="3">
   <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
     <mxGraphModel dx="1814" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-80" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Delivery areas review&lt;br&gt;QTRIP publication&lt;br&gt;inclusive of CBRC&lt;br&gt;outcomes (24 May)&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
           <mxGeometry x="920" y="230" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-85" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;fontSize=10;endSize=6;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-2" edge="1">
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-85" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;fontSize=10;endSize=6;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.007;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1NMxPis9Ar9ZYOywmdkB-2" edge="1" source="1NMxPis9Ar9ZYOywmdkB-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1270" y="670" as="sourcePoint" />
             <mxPoint x="1270" y="30" as="targetPoint" />
@@ -100,7 +100,7 @@
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-81" value="Cabinet considers QTRIP (5 June)" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
           <mxGeometry x="1160" y="130" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wJCfLTcxVVwtHicSg1OE-1" value="QTRIP submission if required e.g. funding pressures (&lt;b style=&quot;font-size: 11px;&quot;&gt;where is this generated and how?&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+        <mxCell id="wJCfLTcxVVwtHicSg1OE-1" value="QTRIP budget submission if required (Which team is responsible and how is this process managed?)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
           <mxGeometry x="350" y="230" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UMWtJVkDgTL3G8nmxIHJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1NMxPis9Ar9ZYOywmdkB-3" source="UMWtJVkDgTL3G8nmxIHJ-1" target="1NMxPis9Ar9ZYOywmdkB-16">
@@ -186,10 +186,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-84" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;fontSize=10;endSize=6;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1NMxPis9Ar9ZYOywmdkB-39" edge="1">
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-84" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;fontSize=10;endSize=6;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" target="1NMxPis9Ar9ZYOywmdkB-39" edge="1" source="1NMxPis9Ar9ZYOywmdkB-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="790" as="sourcePoint" />
-            <mxPoint x="830" y="450" as="targetPoint" />
+            <mxPoint x="726" y="690" as="sourcePoint" />
+            <mxPoint x="706" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
