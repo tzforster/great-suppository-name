@@ -1,1 +1,507 @@
-<mxfile host="Electron" modified="2022-12-15T01:40:43.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.6.2 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36" etag="6pISI61i6CY3rc9xZbRV" version="20.6.2" type="device" pages="3"><diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">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</diagram><diagram id="vq0Zf7JVb8oz-WsY0t5Z" name="Financial process">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</diagram><diagram id="prtHgNgQTEPvFCAcTncT" name="Investment prioritisation">5RzJduK49mtyTmpBDh7AsCQMVVQDoYGku97mHWEroCpj0bKdQH19S5ZkY0tMSUgInQWxrmVZuvMEV1ZzsfpKwHLexx70r8yyt7qyWlemaVTKJv3HIGsOqZlVDpgR5IlJGWCMfkMBLAtojDwY5iZGGPsRWuaBLg4C6EY5GCAEP+enPWI//9YlmEEFMHaBr0L/Ql40F9Bqxc5ufINoNpevNqp1fmcB5GxxlHAOPPy8AbLaV1aTYBzxq8WqCX2GPYkY/lxny910ZwQG0SEPeIPVevCH4zq1ae/5KfRg/1ulZIjdPgE/FkceUvyKHUdriYfwGS18ENDR7Txa+BRo0Et3jnyvB9Y4ZjsII+D+kqNbAkNKzaHcnlEA9QHjkTJbDxP0GwcR8AWArkMiwQpmfsaYvUJMU88vUPIESQRXGyCBj68QL2BE1nSKuGuWBW0Ed9bF8DkjtVk3zJsKB8/zhBaTgWCxWbp8RgR6IehwBE0kw2zQpNXudR/aox8U2hi1G2P6/xoFrh97KJjRwbB1x4QMhRFBbhSyXQUe/QxwUOL3KJoAg4exO+ebNssTAoLQR8GvLwfSe5MyjpZ2KlF2s90RpFJJU6trSWObb0CZ7/a3jj9vzTuePXWr1eqPxqhUqqqUUTAHA6/BFA8dUewzBHognENPoHADmww+BFEESZBAzLKV4JjgX6myMZnY4DjwkgUYhiliyfrvzcEPsV4yaK02b7XWcrRCUfLQjVkRw/Qxep09xQbr44iZKjgcExfumiiwBb2c0lVpvkHkSlklsIQR6IMIPeVVtY7o4g1DjOhBUpZyrIL02wW+4QcST21q1uJCZv2mvvFXyS1bKrIjFaIZjJRlE45MkXAQkzaX6G+791T/J+wPv4H/1yrfSw8lQ8OTFOFjMcQkmuMZDoDfzqAFHsvm9DBeCj75CaNoLYQfxBHOM7OeLcs3lT2M+Qoe04uo0CwcyTsmUht+IDcezGav0y2qJb4yqz4zpdMcNav/xMxluKWKMyp50MWE7o7qearI6YQGnctISfjwNptPr2bs/5+TUXfIbMb9ba/bbEy6dwM6GrUfuu2/mH1pTroP3Um3PU5fT+SjEkIPOJWwVky4DfLgE/TxcgET0cCPjAhzyIwQfKaf8rXcMBH4hBJwMo96bxEKYr7OkuAZAYsrs5muMIIzesLMrA37LeZhxWGk7hF4PxO4mEqXfkSErlaexpTQzDaydUOXquTYh9macLWkqhtFMYF8CgfnT8VhYEn3+AS3HFDs/2Y7+jQQCeDGmiTnTdHENnmtw73yOEcUYMzWQoQ6xJgUkMb3DvwvO9dLNziZQ4YP5j4wrKFV6myQAk0Mc9MDOer04RIEWhZ/pHxRehaan3H2NPHfNUw9SB2dlH0y5FXBgiqx22AaLvNMzF/MV0gRjLZiV+Luyurswh6FpWt8ecGpn+cogiV62xXyvCR6Sb5iWlF7mG7iGybc3QcERWghmHoIwhAGM0ik+7ekup5ed4NHAijtYpcLAAU8wTDibM8e/DOGkDqLnNYjgPwEXDwbv6FZbZFIDFtOCODmy8frMIKMYkO6fiA8WknGginLG6oEVWOOqdYzDUHzRulI43K4N2rYdt53MOyK4p86hsZ3SSPbNzcgRllnQT6Fd3oknfZa7O0xwwndSYUnKKlf6FAatuXc2KpH+fYepJ6TjE8b51wEJ5lGJQ1sJS+V69oY41jOYim59+Ul6Wbr/VpuNsYjark7if1W3Dlpcw9yV4xKwXQVJwizEqp2ZY4X0zj8QJvCaJO3KY7KdYalYbsTpqIMhXjDu9Gkc9frMl+rO3hojyf99mDCAocB8y+HvcZg0B18VVF/Pe42+onL0kmcyNQv45/MdfYh8ELpSn9RHbfPkqQSBLSPSFpZb0FDvQQ6Ogl8/wzBoYIjWG5vpG/IUsL+UN+xD1T37xPqpzvfpRMlIC7G7a32Q7t3N+RSlyrFWBOF7FCUTYyJhwIQZVHsK+J3uKJxH/fb5TTEYhsX+z6YigRFIgfRPA0g+UJZuEaNwJawsaAFys00pn+kTFJaQ8DCmUfKn3wPwPexW3hnhx42cGH6XmoIXBqbsNNqXjqOOGZ4zoCHYJRz5ZrApUxCoyq4M87NYnqNqiOQRj9BiKZUuLQUe4+45+iCiRr3VFQVp4173sRGbZEmR5Gm9spNCpEyzSMZNc3RxFMfJd4q4/uIRq1ZIoMFyyx5pvoI4Rws2aVHWScRk72EmHKq9aYSkCfj6ejklKs3tpW3RhpvwnFuDFslVu10tshWaNUaNTqTjDafFueq/6aRjdP5b3p818zLtP1O7VDbXzPOy/bLnW9QRGol1Zb0UUAtK8vWbY+LXhrIvJdY2NX9JuN0YqEtkVmGgrYLKJEdLDxSJA4QnvOqkaU71whPE0yp0Wa+Ggw8TELIHdlzl46q8ZHSsZvqm1H/hsP06Q21c34aybQOsNNZxtX1QRgiV2Y7VPBWTs6U0E3FrOUVUd209qiiZDSEhLrIzCoVe0s2W0vSbpJXtZYcnQw4k94Sw6nbNzWrwGYvTNomizm1et0s8z8zv265Rl+1kRs28685cb+JVflPG1PjYGNqnZknaqjGdH8WqjEY3Dd69KlJdzhkfYjDUXvYHok2kh0NIzsTVFlGZxwREMEZVWIs6YIwSdIs6sotpoAWrMeF5Zo85HKMmWWjrCaEYJCkttjt6x2JoAzGs8/F4rbMedH5hE9nBexH7COc7CIrO1BhAFGs2Xa6hm6b1KN/RFk+KHvqAfjI4xkpmTXjmAkZyKUweTvbhKbEcUwKibVedMAC+UxwvkH/CUYUx+KGkErDFOMm9jFJXmJxBcUCFB/NWL3PpXthpuJ09tzJW3NLNeZVW2fMi9XZt5Ms6yWSJQVK13G0Nd2aY7o0l/pSMex6dCH0uNbzGc8Db3IbfeFP6MqWDrFxDl/iMHEW064rsSLlKLphHGzI9FaMvPwgr+P903FqZS+r1pxTserOltwNTu10B41Bs30lKnpKBXV017wftXn5oRgDnHlBzqmpCN9WkFMK5W+YAlKRnhlAGc/qyxl7iw3XzU5SXMla1bZ0+r2HgJjH0suo7lfmWrf9hNUFNTLrDjqjxngyum9OqCRc5evgSqXtrt/vTiZtNu+69ZV+NucAkU/0lQvZHq+jxRbhSel2AuFRa6fdblNTJRRpIE9l9bfKAe1hmMMRbRXsgrQsH5ePqCtYe9eYLgvj0lTC62M6KQH7YzrZs3TOnQX67358cGL7g+kmqXEA3Q5NF722lc8ufDdIr1LfKVVj2v9p9jiiYcg8K7E2PzjFdlMp1/NptprjvCRV/PYSb35STS158TxE8Y3aqo+g2+GiWDuJpm4QAtYbE5ZM54Y7FHnFLnR3GBWjwAV8zZdqbH0IpfbLfI/9terTnltu7/iqXKEQqgvVrarqA58s0qirjRqNeJZ8t/DikG/bzpkhX/0u050b4Slrhbk47NeN2nlhP803bqB/DJcRXFwmAaqyr+R8CKBWEFrQvVT8G5asWZ8PAdQc7YB9g/VCCZD2JpwPAdS8awdOSQzIJXo/Rq16dgTQuJ4guFT8V82zs8FqF14fXCLuzYpjnRvu1SJDY0mQptv682Pfkqg9H+yrX+jpA8J+t+zysG+UzyzsNcpq3Ps9Zn1Wl4f82gfmHNZ/PP6s3sPf9zH+36gX9gC+t0rv1QW8FXln0j7L+uNylKkUuzEO/sGD4kr2m/0AAh1mv97Jp2c/gmq1/wU=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-19T05:46:59.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.61" etag="DClhviYIBYRkNYg0EdKj" version="20.6.0" type="github" pages="3">
+  <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
+    <mxGraphModel dx="1814" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-1" value="QTRIP TIMEFRAMES FOR PUBLICATION" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="124" y="100" width="1460" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-2" value="            Delivery areas (PDO, Translink (list non-PDO branches)" style="swimlane;startSize=40;horizontal=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" vertex="1">
+          <mxGeometry y="20" width="1460" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Final program changes&lt;br&gt;approved for Baseline QTRIP&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="1276" y="260" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-36" value="JANUARY" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="40" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-37" value="FEBRUARY" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="260" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-38" value="MARCH" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="500" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-39" value="APRIL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="740" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-40" value="MAY" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="980" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-41" value="JUNE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="1220" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-46" value="10. Regional Directors (RD) approve final draft QTRIP (email sent to RDs - 2 days to review)&amp;nbsp; &amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="1070" y="130" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-76" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Delivery area review&lt;br&gt;&lt;/span&gt;&lt;b&gt;(is this to verify tables and text?)&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="746" y="230" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-80" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Delivery areas review&lt;br&gt;QTRIP publication&amp;nbsp;inclusive&lt;br&gt;of new CBRC&lt;br&gt;outcomes (24 May)&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="920" y="230" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-85" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;fontSize=10;endSize=6;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="670" as="sourcePoint" />
+            <mxPoint x="1270" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-98" value="Controlled change environment: no change for QTRIP &#39;Priority projects&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="746" y="40" width="214" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-100" value="Controlled change end: PCRs open for approval by 30 June" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="1276" y="40" width="174" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-10" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1.&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Regions and Program Management and Delivery (PMD) d&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;evelop current year QTRIP, including&amp;nbsp;review of existing QTRIP by early April.&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Development of new QTRIP projects and revisions to existing projects and budgets.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Regional Programs approved by General Manager (PDO)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Once approved, Regions and PMD finalise details through 3PCM (early April).&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;What is the process for non-PDO programs (who approves)?&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+          <mxGeometry x="40" y="190" width="700" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=0.2;fontSize=10;endSize=6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" target="1NMxPis9Ar9ZYOywmdkB-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="360" as="sourcePoint" />
+            <mxPoint x="1163" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-3" value="PPI (PIP)" style="swimlane;startSize=40;horizontal=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" vertex="1">
+          <mxGeometry y="340" width="1460" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-8" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;QTRIP baseline - profile to Finance (actual process, emails?)&amp;nbsp;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="1270" y="280" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-16" value="12.QTRIP released in budget week on website" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;strokeWidth=4;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="1280" y="23" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7. QTRIP publication review&lt;br&gt;V.4 (draft publication)&lt;br&gt;Update with CBRC outcomes circulated by PFA (24 May)&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="920" y="23" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;" parent="1NMxPis9Ar9ZYOywmdkB-3" source="1NMxPis9Ar9ZYOywmdkB-50" target="1NMxPis9Ar9ZYOywmdkB-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-50" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;9. FINAL QTRIP&lt;br&gt;&amp;nbsp;REVIEW V.5 publication&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="1060" y="23" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-52" value="8. ICC approved&lt;br&gt;QTRIP program" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="1010" y="130" width="110" height="109.09" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-68" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;4. QTRIP publication&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(V0.3 tables&lt;br&gt;and text)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;circulated&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;by PFA&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;for review (complete 28 April)&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="740" y="23" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-69" value="5. Fisr QTRIP submission to ICC - program status (end April)" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="860" y="130" width="110" height="109.09" as="geometry" />
+        </mxCell>
+        <mxCell id="wJCfLTcxVVwtHicSg1OE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1NMxPis9Ar9ZYOywmdkB-3" source="1NMxPis9Ar9ZYOywmdkB-75" target="wJCfLTcxVVwtHicSg1OE-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-75" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;2. QTRIP publication review process undertaken by PFA&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;QTRIP Tables and QTRIP Excel provided to delivery areas by PFA for data integrity checks (by 14 Feb and 24 March).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Program&amp;nbsp;change requests approved by delegate (PIP Business Program Manager) by 31 March&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="250" y="23" width="480" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;" parent="1NMxPis9Ar9ZYOywmdkB-3" source="1NMxPis9Ar9ZYOywmdkB-81" target="1NMxPis9Ar9ZYOywmdkB-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-81" value="11. Cabinet and&lt;br&gt;Minister approval (&lt;b&gt;detail steps and timeframes)&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="1160" y="130" width="110" height="109.09" as="geometry" />
+        </mxCell>
+        <mxCell id="wJCfLTcxVVwtHicSg1OE-1" value="QTRIP submission if required e.g. funding pressures (&lt;b style=&quot;font-size: 11px;&quot;&gt;where is this generated and how?&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" parent="1NMxPis9Ar9ZYOywmdkB-3" vertex="1">
+          <mxGeometry x="350" y="230" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-4" value="CFO (Management&#xa;Reporting and Analysis)" style="swimlane;startSize=40;horizontal=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" vertex="1">
+          <mxGeometry y="750" width="1460" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;QTRIP baseline - Finance approve&lt;br&gt;budgeted expenditure profile&lt;br&gt;(&lt;b&gt;do Finance approve Baseline&lt;br&gt;expenditure flows and reconcile&lt;br&gt;with PIP?&lt;/b&gt;)&amp;nbsp;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-4" vertex="1">
+          <mxGeometry x="1250" y="20" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-60" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;CBRC outcomes circulated by Fianance&lt;br&gt;(&lt;b&gt;how are outcomes circulated and do QTRIP-related outcomes get send to PF&amp;amp;A&lt;/b&gt;?)&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-4" vertex="1">
+          <mxGeometry x="867" y="20" width="255" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-73" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;3. FInance coordinates budget submissions&lt;br&gt;across TMR (20-30 submissions). Submissions&lt;br&gt;lodged to Cab Secretarat by 23 April&lt;br&gt;(indicative and subject to change)&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-4" vertex="1">
+          <mxGeometry x="524" y="20" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-5" value="Qld Treasury" style="swimlane;startSize=40;horizontal=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" vertex="1">
+          <mxGeometry y="920" width="1460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-1" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Forward Estim&lt;/span&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ates update&lt;br&gt;&lt;span style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Baseline for CBRC consideration of submissions.&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-5" vertex="1">
+          <mxGeometry x="267" y="10" width="213" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-2" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;6.CBRC outcomes available mid-May. CBRC meetings dates are indicative&lt;br&gt;and can change at short notice.&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-5" vertex="1">
+          <mxGeometry x="885" y="10" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Forward Estim&lt;/span&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ates update&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Budget outcomes&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;More detail what they are doing&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1NMxPis9Ar9ZYOywmdkB-5" vertex="1">
+          <mxGeometry x="1270" y="10" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=10;endSize=6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" source="1NMxPis9Ar9ZYOywmdkB-60" target="1NMxPis9Ar9ZYOywmdkB-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="975" y="469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-88" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=0.2;fontSize=10;endSize=6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" source="1NMxPis9Ar9ZYOywmdkB-75" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="400" as="sourcePoint" />
+            <mxPoint x="490" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-89" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=0.2;fontSize=10;endSize=6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" source="1NMxPis9Ar9ZYOywmdkB-68" target="1NMxPis9Ar9ZYOywmdkB-76" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="420" as="sourcePoint" />
+            <mxPoint x="630" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-90" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=0.2;fontSize=10;endSize=6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" source="1NMxPis9Ar9ZYOywmdkB-19" target="1NMxPis9Ar9ZYOywmdkB-80" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="420" as="sourcePoint" />
+            <mxPoint x="630" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=10;fontColor=#000000;" parent="1NMxPis9Ar9ZYOywmdkB-1" source="1NMxPis9Ar9ZYOywmdkB-73" target="oTxpOXQzTmKI59_1Gvsa-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="645" y="966" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=10;fontColor=#000000;" parent="1NMxPis9Ar9ZYOywmdkB-1" source="oTxpOXQzTmKI59_1Gvsa-2" target="1NMxPis9Ar9ZYOywmdkB-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTxpOXQzTmKI59_1Gvsa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=10;fontColor=#000000;" parent="1NMxPis9Ar9ZYOywmdkB-1" source="oTxpOXQzTmKI59_1Gvsa-10" target="1NMxPis9Ar9ZYOywmdkB-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="408" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJCfLTcxVVwtHicSg1OE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" source="wJCfLTcxVVwtHicSg1OE-1" target="1NMxPis9Ar9ZYOywmdkB-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="790" />
+              <mxPoint x="531" y="790" />
+              <mxPoint x="531" y="792" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-84" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;fontSize=10;endSize=6;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1NMxPis9Ar9ZYOywmdkB-39" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="790" as="sourcePoint" />
+            <mxPoint x="830" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vq0Zf7JVb8oz-WsY0t5Z" name="Financial process">
+    <mxGraphModel dx="1405" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NMHns9GoFDPjdKpNw9aY-1" value="TMR REVENUE AND FUNDING FLOWS" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="30" width="1250" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-1" source="kgao66b1QHwsTAKo6r0Z-7" target="kgao66b1QHwsTAKo6r0Z-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-1" source="kgao66b1QHwsTAKo6r0Z-2" target="kgao66b1QHwsTAKo6r0Z-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NMHns9GoFDPjdKpNw9aY-2" value="Qld Government&#xa; (QT)" style="swimlane;startSize=40;horizontal=0;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-1" vertex="1">
+          <mxGeometry y="20" width="1250" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-2" value="Tridata forward&lt;br&gt;estimate update" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
+          <mxGeometry x="640" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=1;rotation=-180;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
+          <mxGeometry x="830" y="50" width="20" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-2" source="kgao66b1QHwsTAKo6r0Z-31" target="kgao66b1QHwsTAKo6r0Z-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-31" value="CBRC&lt;br&gt;outcomes" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
+          <mxGeometry x="655" y="40" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-33" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Adjustments to departmental funding allocations can only be made by CBRC based on departmental submissions.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;All capital and operating funding adjustments are then&lt;br&gt;reflected in Tridata (&lt;/span&gt;Queensland Treasury&#39;s WoG budget and reporting system) during Forward Estimates (FE) updates.&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51); background-color: rgb(251, 251, 251);&quot;&gt;TMR has three major budget rounds each financial year that correlate to Queensland Treasury FE updates of July, October and February. These are referred to as budget versions 1, 2 and 3.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
+          <mxGeometry x="830" y="50" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-53" value="Queensland Treasury &lt;br&gt;consolidated fund" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
+          <mxGeometry x="70" y="82.5" width="210" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-64" value="&lt;h1&gt;REVENUE FLOWS&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=1;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
+          <mxGeometry x="210" y="6" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-65" value="&lt;h1&gt;FUNDING FLOWS&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=1;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
+          <mxGeometry x="790" y="6" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R0BcNBtTmBV-_6BC8CI2-14" value="Weekly remittance to Queensland Treasury" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
+          <mxGeometry x="110" y="200" width="133.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZucL_8auy1gbdfvtZyR6-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;TMR retains 81.44% of registration revenue, reflected in its funding envelope.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
+          <mxGeometry x="480" y="140" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NMHns9GoFDPjdKpNw9aY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="NMHns9GoFDPjdKpNw9aY-1" source="NMHns9GoFDPjdKpNw9aY-3" target="NMHns9GoFDPjdKpNw9aY-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NMHns9GoFDPjdKpNw9aY-3" value="TMR&#xa; (Finance and Procurement)" style="swimlane;startSize=40;horizontal=0;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-1" vertex="1">
+          <mxGeometry y="260" width="1250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-3" source="kgao66b1QHwsTAKo6r0Z-5" target="kgao66b1QHwsTAKo6r0Z-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-5" value="TMR funding envelop reconciliation with CBRC funding outcomes" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-3" vertex="1">
+          <mxGeometry x="620" y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-7" value="Budget and Financial Planning update allocation files to match TRIDATA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-3" vertex="1">
+          <mxGeometry x="620" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=1;rotation=-180;" parent="NMHns9GoFDPjdKpNw9aY-3" vertex="1">
+          <mxGeometry x="830" y="30" width="20" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-36" value="&lt;ul&gt;&lt;li&gt;Financial Planning and Analysis (FPA) in TMR reflects CBRC funding decisions across branch-level funding envelops in Allocation Files (spreadsheets).&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;At the end of the financial year, Financial Performance and Systems complete Carryover (July) - a process for adjustments required to the following year’s budget.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;How does QTRIP funding in allocation files get reflected in 3PCM for QTRIP &lt;/b&gt;(&lt;b&gt;do Finance send to PF&amp;amp;A who reconcile in 3PCM)?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;How does non-QTRIP funding in allocation files get reflected in Branch budgets (do Finance send to branch finance areas to reconcile in SAP?)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-3" vertex="1">
+          <mxGeometry x="830" y="10" width="378.95" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-55" value="Fortnightly cash injection&lt;br&gt;reflected in allocation files&lt;br&gt;by Budget and Financial Planning" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-3" vertex="1">
+          <mxGeometry x="310" y="60" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="NMHns9GoFDPjdKpNw9aY-3" edge="1">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="460" as="sourcePoint" />
+            <mxPoint x="600" y="-245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R0BcNBtTmBV-_6BC8CI2-1" value="Cash and Banking team reconcile SAP with general ledger" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-3" vertex="1">
+          <mxGeometry x="75" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R0BcNBtTmBV-_6BC8CI2-66" value="LTSR Finance&lt;br&gt;remitance of&amp;nbsp; heavy vehicle regulator fee" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="NMHns9GoFDPjdKpNw9aY-3" vertex="1">
+          <mxGeometry x="50" y="30" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R0BcNBtTmBV-_6BC8CI2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=11;fontColor=#CC0000;" parent="NMHns9GoFDPjdKpNw9aY-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="60" as="targetPoint" />
+            <mxPoint x="170" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMHns9GoFDPjdKpNw9aY-4" value="TMR Branches" style="swimlane;startSize=40;horizontal=0;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-1" vertex="1">
+          <mxGeometry y="480" width="1250" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-12" value="Expenditure recorded&lt;br&gt;in SAP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="645" y="150" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-4" source="kgao66b1QHwsTAKo6r0Z-9" target="kgao66b1QHwsTAKo6r0Z-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-9" value="Program Funding and Analysis reconciles approved allocations to QTRIP funding in 3PCM. Branch Finance reconcile branch budgets." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="620" y="50" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-37" value="&lt;ul style=&quot;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;QTRIP project funding and planned expenditure is reflected in 3PCM and recorded in SAP when expenditure is incurred based on project codes and cost centre numbers (BAU reflected in SAP based on cost centre numbers).&amp;nbsp; (Does SAP record QTRIIP expenditure based on project codes that align with 3PCM planned expenditure?)&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Budgets are updated to reflect the current&amp;nbsp;&lt;/span&gt;funding allocations and expected timing of expenditure during Budget rounds. Dates are communicated through FP&amp;amp;A Key Account Managers (KAMs)&lt;/li&gt;&lt;li&gt;SAP is the source of truth for budgets and reporting. Branch&lt;br&gt;budgets must reconcile to their allocation files for revenue, expenses, depreciation, special funding and capital.&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="830" y="30" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=1;rotation=-180;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="830" y="40" width="20" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-49" value="TRAILS tracks registration transactions and records them in SAP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;fontFamily=Helvetica;fontSize=12;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="107.09" y="30" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R0BcNBtTmBV-_6BC8CI2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fontSize=11;fontColor=#000000;" parent="NMHns9GoFDPjdKpNw9aY-4" source="kgao66b1QHwsTAKo6r0Z-50" target="kgao66b1QHwsTAKo6r0Z-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-50" value="Customer Services Branch interfaces with public to collect revenuw" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="100" y="160" width="149.47" height="44.84" as="geometry" />
+        </mxCell>
+        <mxCell id="QW4cM9V998VrkaMXxzDj-1" value="QTRIP expenditure&lt;br style=&quot;font-size: 11px;&quot;&gt;incured and recorded&lt;br&gt;through SAP&lt;br&gt;based on project code&lt;br&gt;and cost centre&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fontFamily=Helvetica;fontSize=11;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="270" y="50" width="158.5" height="74.84" as="geometry" />
+        </mxCell>
+        <mxCell id="FM0lbP13WK9GgCMavknw-2" value="Non-QTRIP expenditure&lt;br&gt;in SAP based&lt;br&gt;on cost centre" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fontFamily=Helvetica;fontSize=11;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="450" y="50" width="118.5" height="74.84" as="geometry" />
+        </mxCell>
+        <mxCell id="l4H8PvoydFz3_QBa5k2O-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NMHns9GoFDPjdKpNw9aY-1" source="kgao66b1QHwsTAKo6r0Z-53" target="kgao66b1QHwsTAKo6r0Z-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R0BcNBtTmBV-_6BC8CI2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=11;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="NMHns9GoFDPjdKpNw9aY-1" source="kgao66b1QHwsTAKo6r0Z-49" target="R0BcNBtTmBV-_6BC8CI2-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175.06060606060623" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UdNmxHdqU_Ivv4mIyDs--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" parent="NMHns9GoFDPjdKpNw9aY-1" source="kgao66b1QHwsTAKo6r0Z-55" target="QW4cM9V998VrkaMXxzDj-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UdNmxHdqU_Ivv4mIyDs--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.641;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="NMHns9GoFDPjdKpNw9aY-1" source="kgao66b1QHwsTAKo6r0Z-55" target="FM0lbP13WK9GgCMavknw-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZucL_8auy1gbdfvtZyR6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;fontSize=11;fontColor=#CC0000;dashed=1;" parent="1" source="ZucL_8auy1gbdfvtZyR6-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R0BcNBtTmBV-_6BC8CI2-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=11;fontColor=#000000;" parent="1" source="R0BcNBtTmBV-_6BC8CI2-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="289.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R0BcNBtTmBV-_6BC8CI2-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=11;fontColor=#000000;" parent="1" source="R0BcNBtTmBV-_6BC8CI2-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="296.66499999999996" y="209.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Investment prioritisation">
+    <mxGraphModel dx="1502" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="90" width="2912.5" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="DELIVERY AREAS (including PDO districts and non-PDO areas such as Translink)" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" width="2892.5" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="940" as="sourcePoint" />
+            <mxPoint x="729.9999999999995" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpiX4Lv9qsMPHa_85J-V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" source="J4HFlhDhFd4bc666YAR--69" target="J4HFlhDhFd4bc666YAR--165" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--69" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QTRIP PUBLICATION REVIEW ACTIVITIES&lt;br&gt;&lt;/b&gt;During development of the new QTRIP and review of continuing program, the Regions and PMD must&lt;br&gt;adjust and confirm budgets, schedules and expenditure, and development and approve the new QTRIP program.&lt;br&gt;&lt;br&gt;&lt;b&gt;PDO region reviews (&lt;/b&gt;&lt;b&gt;Regional Director and PMD approval)&lt;/b&gt;&lt;br&gt;There are six PDO regions and 12 districts.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Non-PDO program reviews&amp;nbsp;&lt;/span&gt;(&lt;i&gt;&lt;b&gt;approval?&lt;/b&gt;&lt;/i&gt;)&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Includes Maritime, Passenger Transport Infrastructure Investment, Queensland Rail,&lt;br&gt;Rail Infrastructure Improvements, Transport System Planning Program" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+          <mxGeometry x="1440" y="145" width="710" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--109" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" edge="1">
+          <mxGeometry x="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1440" y="2100" as="sourcePoint" />
+            <mxPoint x="1437.4999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--110" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" edge="1">
+          <mxGeometry x="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2152.5" y="2099.9999999999995" as="sourcePoint" />
+            <mxPoint x="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--165" value="&lt;b&gt;SRO/PDO&lt;br&gt;approval&lt;/b&gt;&lt;br&gt;15 Investment&lt;br&gt;Programs" style="rhombus;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+          <mxGeometry x="2215" y="170" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="PORTFOLIO INVESTMENT AND PLANNING&lt;br&gt;(SIAM / PD&amp;amp;P leads QTRIP)&amp;nbsp;" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="420" width="2892.5" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--126" target="J4HFlhDhFd4bc666YAR--174" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--126" value="&lt;b&gt;&lt;u&gt;QTRIP DEVELOPMENT&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Coordinate the development of the new QTRIP and review of existing QTRIP in collaboration with PDO and program SROs.&lt;br&gt;&amp;nbsp; Confirm four-year funding allocation with Finance and Procurement.&lt;br&gt;State budget preparation activities.&lt;br&gt;&lt;b&gt;PD&amp;amp;P responsible&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+          <mxGeometry x="1440" y="150" width="710" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--127" value="Excel schedule of QTRIP published details and timelines" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+          <mxGeometry x="1706.43" y="40" width="177.14" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--174" value="DRAFT QTRIP" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+          <mxGeometry x="2215" y="150" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--178" target="J4HFlhDhFd4bc666YAR--181" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--178" value="QTRIP &lt;br&gt;Minister&lt;br&gt;approval" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+          <mxGeometry x="2460" y="150" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CpiX4Lv9qsMPHa_85J-V-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--181" target="J4HFlhDhFd4bc666YAR--185" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--181" value="QTRIP Cabinet endorsement" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+          <mxGeometry x="2610" y="150" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--185" value="Published QTRIP" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+          <mxGeometry x="2760" y="150" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CpiX4Lv9qsMPHa_85J-V-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.528;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--126" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1794.83" y="155" as="sourcePoint" />
+            <mxPoint x="1794.7899200000002" y="108.83999999999992" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpiX4Lv9qsMPHa_85J-V-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--111" target="J4HFlhDhFd4bc666YAR--131" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--111" value="&lt;b&gt;&lt;u&gt;ANNUAL TIPPS PREPERATION&lt;br&gt;&lt;/u&gt;&lt;/b&gt;Confirm Strategic priorities&lt;br&gt;Determine indicative 10-year funding envelope (Finance and Procurement and PIP)&lt;br&gt;Review current portfolio investment status&lt;br&gt;Review 10-year funding profile&lt;br&gt;Validate and prioritise candidate investments" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+          <mxGeometry x="70" y="30" width="640" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--131" value="&lt;b&gt;&lt;u&gt;TIPPS development and review of existing investment program&lt;br&gt;&lt;/u&gt;&lt;/b&gt;Identify and prioritise new candidate projects, develop proposed budgets and milestones&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+          <mxGeometry x="750" y="30" width="870" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="FINANCE AND&lt;br&gt;PROCUREMENT" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="780" width="2892.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--172" value="Confirm QTRIP funding allocation&lt;br&gt;&lt;b&gt;(CFO approval?)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
+          <mxGeometry x="1670" y="30" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--123" value="INFRASTRUCTURE INVESTMENT&lt;br&gt;COMMITTEE (DG Chair)" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="930" width="2892.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--176" value="IIC&amp;nbsp; endorsed" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="J4HFlhDhFd4bc666YAR--123" vertex="1">
+          <mxGeometry x="2350" y="21" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CpiX4Lv9qsMPHa_85J-V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--165" target="J4HFlhDhFd4bc666YAR--174" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpiX4Lv9qsMPHa_85J-V-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--174" target="J4HFlhDhFd4bc666YAR--176" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2429.999999999999" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpiX4Lv9qsMPHa_85J-V-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--126" target="J4HFlhDhFd4bc666YAR--172" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpiX4Lv9qsMPHa_85J-V-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--172" target="J4HFlhDhFd4bc666YAR--174" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpiX4Lv9qsMPHa_85J-V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--176" target="J4HFlhDhFd4bc666YAR--178" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2545" y="1151" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="July" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--98" value="August" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="447" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--99" value="October" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="918" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--100" value="September" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="681" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--101" value="December" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1392" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--102" value="November" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--103" value="February" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1865" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--104" value="January" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1628" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--105" value="May" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2573" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--106" value="April" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2336" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--107" value="March" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4HFlhDhFd4bc666YAR--108" value="June" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2810" y="80" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yKfj6UezUuoZRLsLaoU3-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2010" y="550" as="sourcePoint" />
+            <mxPoint x="2010" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
