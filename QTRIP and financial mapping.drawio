@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T05:41:32.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="7tRs65aE5h0ECFse1I2X" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-12T06:51:34.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="zQN2UA96YXV4YLp8opf9" version="20.7.4" type="github" pages="4">
   <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
     <mxGraphModel dx="1595" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X3dKkrn110yIOYmauAq2" name="Investment identification and prioritisation">
-    <mxGraphModel dx="3855" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="5236" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,10 +435,10 @@
           <mxGeometry x="-90" y="20" width="360" height="180" as="geometry" />
         </mxCell>
         <mxCell id="rAv-eNb2mt4PAesZk3n8-2" value="QTRIP &lt;br&gt;TMR develop a 4 year road investment pipeline, the Queensland Transport and Roads Investment Program (QTRIP). QTRIP outlines the current and planned investments in transport and road infrastructure over the next four years. QTRIP is developed in accordance with funding allocations identified by the Australian Government and Queensland Government in the respective annual budgets and is published annually in line with the state budget.&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;All TMR planned TIP investments for Years 1 to 4 are to be published in QTRIP each year and managed through TMR’s various program and project management systems.&lt;br&gt;All investments must be attributed to an Investment Program and Investment Sub-program&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;All state-funded investments are considered to be committed if funding is allocated in Year 1 of the QTRIP and are indicative if funding is allocated in Years 2 to 4 of the QTRIP.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;All Australian Government investments with federal funding have committed funding as per Federal Budget outcomes, as outlined in the National Partnership Agreement (NPA) – Queensland Schedule.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Once an investment budget is identified in QTRIP, the impact of any proposed changes to an investment’s scope, budget and/or project schedule must be considered and addressed by Project Owners and the relevant Investment Program.&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="340" y="995" width="590" height="270" as="geometry" />
+          <mxGeometry x="340" y="1110" width="590" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="rAv-eNb2mt4PAesZk3n8-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Projects with an estimated budget of under $100m utilise the OnQ project management methodology.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;All investments between $50 million and $100 million require a Project Proposal, Options Analysis and/or Business Case to be produced in accordance with OnQ Project Management Methodology, with three IIC reviews following the completion of the Project Proposal, Options Analysis and Business Case.&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="380" height="130" as="geometry" />
+        <mxCell id="rAv-eNb2mt4PAesZk3n8-3" value="&lt;b&gt;Type 1 Projects (&lt;/b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;investments between $50 million and $100 million)&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;b&gt;OnQ Project Management Methodology&lt;/b&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;pathway&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Require a Project Proposal, Options Analysis and/or Business Case to be produced, with three IIC reviews following the completion of the Project Proposal, Options Analysis and Business Case for consideration and endorsement by the IIC and approval of the Director-General. The decision authority for post-Business Case for $50 million to less than $100 million capital expenditure projects remains with District Directors in PDO&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="380" height="190" as="geometry" />
         </mxCell>
         <mxCell id="rAv-eNb2mt4PAesZk3n8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rAv-eNb2mt4PAesZk3n8-4" target="9Bqqdr80cg3n-UmQJmAP-1">
           <mxGeometry relative="1" as="geometry" />
@@ -449,17 +449,17 @@
         <mxCell id="rAv-eNb2mt4PAesZk3n8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAv-eNb2mt4PAesZk3n8-10" target="rAv-eNb2mt4PAesZk3n8-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rAv-eNb2mt4PAesZk3n8-10" value="TIPPS (10-year investment plan)&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Each year, PIP leads and coordinates the development of TIPPS and the publication of QTRIP, in consultation with delivery areas and other stakeholders.&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="730" width="480" height="250" as="geometry" />
+        <mxCell id="rAv-eNb2mt4PAesZk3n8-10" value="TIPPS (10-year investment plan)&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Each year, PIP leads and coordinates the development of TIPPS and the publication of QTRIP, in consultation with delivery areas and other stakeholders.&lt;br&gt;The annual portfolio definition process is conducted between July and May (the release of the annual QTRIP Publication Review cycle). The annual portfolio definition process is led by PIP, in collaboration with other key stakeholders across TMR. The main output of the portfolio definition process is the Portfolio Funding Allocation and 10-year TIPPS that provides direction for the QTRIP Publication Review.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;The portfolio is planned through an annual, iterative, end-to-end definition process that reviews outputs of the previous year’s prioritisation process against changes in strategic direction, the likely 10-year funding envelope, outcome performance of the transport network, and priority and timing of candidate investments.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;The TIPPS provides a baseline starting point for IIC investment decisions and balances the needs for operation, maintenance and upgrade of transport infrastructure assets (refer to Figure 1 for the end-to-end annual portfolio definition process).&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;The TIP structure is large, containing thousands of projects and candidate investments over 10 years, with investments ranging from very small (less than $1 million) to the very large (greater than $1 billion) and as diverse as road, rail, aviation and marine.&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="730" width="550" height="370" as="geometry" />
         </mxCell>
         <mxCell id="rAv-eNb2mt4PAesZk3n8-11" value="Timing&lt;br&gt;The TIPPS is part of the annual portfolio definition process and is generally finalised in the first half of each financial year.&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;The QTRIP Publication Review process is generally finalised in the second half of each financial year to allow the publication to be released soon after the State and Federal Budgets are released each year. The published QTRIP aligns with the TIPPS and balances to an agreed funding envelope.&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1005" width="480" height="250" as="geometry" />
+          <mxGeometry x="1020" y="1150" width="480" height="250" as="geometry" />
         </mxCell>
         <mxCell id="rAv-eNb2mt4PAesZk3n8-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Delivery and reporting&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;delivery areas are responsible for project delivery and associated reporting of the QTRIP program, which is subsequently monitored by PIP, Investment Programs and other key stakeholders using mainly the following mechanisms:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;• Monthly program performance reporting to the Infrastructure Investment Committee (IIC)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;• October and January program review periods&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;• Quarterly Service Delivery Statements (SDS) KPI’s.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1360" width="400" height="200" as="geometry" />
+          <mxGeometry x="520" y="1400" width="400" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="rAv-eNb2mt4PAesZk3n8-14" value="Business case&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Projects that are estimated to cost $100m or above are required to the Project Assessment Framework (PAF)&lt;br&gt;R&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;equire a Strategic Assessment of Service Requirements (SASR), Preliminary Evaluation and Business Case to be produced in accordance with the PAF and endorsed by the IIC through the Major Project gating process&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="780" y="550" width="380" height="130" as="geometry" />
+        <mxCell id="rAv-eNb2mt4PAesZk3n8-14" value="&lt;b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Major projects (&lt;/span&gt;estimated to cost $100m or above)&lt;/b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;br&gt;&amp;nbsp;PAF pathway&lt;/b&gt;&lt;br&gt;Projects that are estimated to cost $100m or above are required to the Project Assessment Framework (PAF)&lt;br&gt;Require a Strategic Assessment of Service Requirements (SASR), Preliminary Evaluation and Business Case to be produced in accordance with the PAF and endorsed by the IIC through the Major Project gating process.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Initiatives falling within this category require preparation of an IIC gating submission, attaching a project deliverable PAF report relevant to the gating phase, for consideration and endorsement by the IIC. An independently conducted assurance review of the report is also used to guide IIC evaluation.&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="780" y="550" width="720" height="130" as="geometry" />
         </mxCell>
         <mxCell id="rAv-eNb2mt4PAesZk3n8-17" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;All projects are required to produce a business case.&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="580" y="460" width="310" height="60" as="geometry" />
@@ -470,175 +470,34 @@
             <mxPoint x="970" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rAv-eNb2mt4PAesZk3n8-19" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;All investments (planning and infrastructure) with a budget in Year 1 and/or Year 2 of the QTRIP must have either:&lt;br&gt;&lt;/span&gt;*&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;An approved Project Nomination Form&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;o An approved or underway OnQ Project Proposal or PAF SASR&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;o OnQ Business Case for infrastructure Type 1 and Type 2 projects approved by the Project Owner, or PAF Business Case approved by the Project Owner and IIC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;o OnQ Project Scope Identification Form approved by the Project Owner for infrastructure Type 3 projects&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;All investments less than $100 million with a budget in Year 3 and/or Year 4 of the QTRIP must have at least an approved OnQ Project Proposal approved by the Project Owner before being included in Years 3 and 4 of the QTRIP.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="350" y="700" width="570" height="150" as="geometry" />
+        <mxCell id="rAv-eNb2mt4PAesZk3n8-19" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;All investments (planning and infrastructure) with a budget in Year 1 and/or Year 2 of the QTRIP must have either:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;An approved Project Nomination Form&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;An approved or underway OnQ Project Proposal or PAF SASR&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;OnQ Business Case for infrastructure Type 1 and Type 2 projects approved by the Project Owner, or PAF Business Case approved by the Project Owner and IIC&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;OnQ Project Scope Identification Form approved by the Project Owner for infrastructure Type 3 projects&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;All investments less than $100 million with a budget in Year 3 and/or Year 4 of the QTRIP must have at least an approved OnQ Project Proposal approved by the Project Owner before being included in Years 3 and 4 of the QTRIP.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="350" y="860" width="570" height="230" as="geometry" />
         </mxCell>
         <mxCell id="rAv-eNb2mt4PAesZk3n8-20" value="AG projects&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Project Proposal Reports (PPRs) are required to be submitted and approved by the Australian Government for all investments within the current NPA. As part of submission of a PPR, an approved Business Case may be provided as an attachment. For all investments within the current NPA requiring $250 million or more of federal funding, the Business Case is required to be submitted to Infrastructure Australia for assessment as part of the federal funding approval process.&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-140" y="712" width="360" height="230" as="geometry" />
         </mxCell>
         <mxCell id="rAv-eNb2mt4PAesZk3n8-22" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Unfunded projects seeking funding&lt;br&gt;For Project Proposals not included in QTRIP, Project Owners may submit a proposal to the relevant IPM-O and, if applicable, using the IIC Submission template as guidance (submission to be approved by the SRO), outline investment details, justification for funding, risk of investment not being funded and proposed funding sought. The proposal will be considered in the context of other competing unfunded priorities, and both portfolio and investment program implications to be reported to IIC and further considered as part of QTRIP program reviews (October and January of each year).&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="790" width="430" height="250" as="geometry" />
+          <mxGeometry x="1560" y="780" width="430" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="prtHgNgQTEPvFCAcTncT" name="Investment prioritisation">
-    <mxGraphModel dx="2279" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+  <diagram id="nT2SPOE4Iqljy2bdHSBK" name="Portfolio approach">
+    <mxGraphModel dx="1876" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="90" width="2912.5" height="1160" as="geometry" />
+        <mxCell id="5Hqgg1hZ6vwFNyDv8yoM-1" value="&lt;b&gt;Regional investment program&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Each year, Regions in collaboration with District delivery programs are expected to undertake a formal process to develop their new program.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Once developed, the new program is to be approved by the General Manager (PDO) and submitted to Investment Programs for state-wide&amp;nbsp;prioritisation.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ensure the program total within the Forward Estimates is maintained and reconciled to the total available funding&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="450" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="DELIVERY AREAS (including PDO districts and non-PDO areas such as Translink)" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="2892.5" height="420" as="geometry" />
+        <mxCell id="5Hqgg1hZ6vwFNyDv8yoM-2" value="&lt;b&gt;State-wide prioritisation by Investment Programs&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="450" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="940" as="sourcePoint" />
-            <mxPoint x="729.9999999999995" y="-20" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="5Hqgg1hZ6vwFNyDv8yoM-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;A single set of master data (refer to IMDGG Business Model) which is consistent across systems and used for reporting to senior management. This is maintained by PIP.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;One source of truth for each functional area (for example, funding is OPPM, scheduling is Oracle Primavera P6, Budgeted Expenditure Flows is SAP)&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="320" width="500" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="CpiX4Lv9qsMPHa_85J-V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" source="J4HFlhDhFd4bc666YAR--69" target="J4HFlhDhFd4bc666YAR--165" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--69" value="&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;QTRIP PUBLICATION REVIEW ACTIVITIES&lt;br&gt;&lt;/b&gt;During development of the new QTRIP and review of continuing program, the Regions and PMD must&lt;br&gt;adjust and confirm budgets, schedules and expenditure, and development and approve the new QTRIP program.&lt;br&gt;&lt;br&gt;&lt;b&gt;PDO region reviews (&lt;/b&gt;&lt;b&gt;Regional Director and PMD approval)&lt;/b&gt;&lt;br&gt;There are six PDO regions and 12 districts.&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Non-PDO program reviews&amp;nbsp;&lt;/span&gt;(&lt;i&gt;&lt;b&gt;approval?&lt;/b&gt;&lt;/i&gt;)&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Includes Maritime, Passenger Transport Infrastructure Investment, Queensland Rail,&lt;br&gt;Rail Infrastructure Improvements, Transport System Planning Program" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="1440" y="145" width="710" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--109" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" edge="1">
-          <mxGeometry x="20" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1440" y="2100" as="sourcePoint" />
-            <mxPoint x="1437.4999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--110" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" edge="1">
-          <mxGeometry x="20" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2152.5" y="2099.9999999999995" as="sourcePoint" />
-            <mxPoint x="2150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--165" value="&lt;b&gt;SRO/PDO&lt;br&gt;approval&lt;/b&gt;&lt;br&gt;15 Investment&lt;br&gt;Programs" style="rhombus;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="2215" y="170" width="130" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="PORTFOLIO INVESTMENT AND PLANNING&lt;br&gt;(SIAM / PD&amp;amp;P leads QTRIP)&amp;nbsp;" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="420" width="2892.5" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--126" target="J4HFlhDhFd4bc666YAR--174" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--126" value="&lt;b&gt;&lt;u&gt;QTRIP DEVELOPMENT&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Coordinate the development of the new QTRIP and review of existing QTRIP in collaboration with PDO and program SROs.&lt;br&gt;&amp;nbsp; Confirm four-year funding allocation with Finance and Procurement.&lt;br&gt;State budget preparation activities.&lt;br&gt;&lt;b&gt;PD&amp;amp;P responsible&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="1440" y="150" width="710" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--127" value="Excel schedule of QTRIP published details and timelines" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="1706.43" y="40" width="177.14" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--174" value="DRAFT QTRIP" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="2215" y="150" width="130" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--178" target="J4HFlhDhFd4bc666YAR--181" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--178" value="QTRIP &lt;br&gt;Minister&lt;br&gt;approval" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="2460" y="150" width="130" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="CpiX4Lv9qsMPHa_85J-V-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--181" target="J4HFlhDhFd4bc666YAR--185" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--181" value="QTRIP Cabinet endorsement" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="2610" y="150" width="130" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--185" value="Published QTRIP" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="2760" y="150" width="130" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="CpiX4Lv9qsMPHa_85J-V-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.528;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--126" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1794.83" y="155" as="sourcePoint" />
-            <mxPoint x="1794.7899200000002" y="108.83999999999992" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CpiX4Lv9qsMPHa_85J-V-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-21" source="J4HFlhDhFd4bc666YAR--111" target="J4HFlhDhFd4bc666YAR--131" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--111" value="&lt;b&gt;&lt;u&gt;ANNUAL TIPPS PREPERATION&lt;br&gt;&lt;/u&gt;&lt;/b&gt;Confirm Strategic priorities&lt;br&gt;Determine indicative 10-year funding envelope (Finance and Procurement and PIP)&lt;br&gt;Review current portfolio investment status&lt;br&gt;Review 10-year funding profile&lt;br&gt;Validate and prioritise candidate investments" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="70" y="30" width="640" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--131" value="&lt;b&gt;&lt;u&gt;TIPPS development and review of existing investment program&lt;br&gt;&lt;/u&gt;&lt;/b&gt;Identify and prioritise new candidate projects, develop proposed budgets and milestones&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="750" y="30" width="870" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="FINANCE AND&lt;br&gt;PROCUREMENT" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="780" width="2892.5" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--172" value="Confirm QTRIP funding allocation&lt;br&gt;&lt;b&gt;(CFO approval?)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
-          <mxGeometry x="1670" y="30" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--123" value="INFRASTRUCTURE INVESTMENT&lt;br&gt;COMMITTEE (DG Chair)" style="swimlane;html=1;startSize=70;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="930" width="2892.5" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--176" value="IIC&amp;nbsp; endorsed" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="J4HFlhDhFd4bc666YAR--123" vertex="1">
-          <mxGeometry x="2350" y="21" width="130" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="CpiX4Lv9qsMPHa_85J-V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--165" target="J4HFlhDhFd4bc666YAR--174" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpiX4Lv9qsMPHa_85J-V-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--174" target="J4HFlhDhFd4bc666YAR--176" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2429.999999999999" y="930" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CpiX4Lv9qsMPHa_85J-V-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--126" target="J4HFlhDhFd4bc666YAR--172" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpiX4Lv9qsMPHa_85J-V-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--172" target="J4HFlhDhFd4bc666YAR--174" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpiX4Lv9qsMPHa_85J-V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="J4HFlhDhFd4bc666YAR--176" target="J4HFlhDhFd4bc666YAR--178" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2545" y="1151" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="July" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="210" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--98" value="August" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="447" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--99" value="October" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="918" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--100" value="September" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="681" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--101" value="December" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1392" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--102" value="November" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--103" value="February" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1865" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--104" value="January" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1628" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--105" value="May" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2573" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--106" value="April" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2336" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--107" value="March" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4HFlhDhFd4bc666YAR--108" value="June" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2810" y="80" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yKfj6UezUuoZRLsLaoU3-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2010" y="550" as="sourcePoint" />
-            <mxPoint x="2010" y="450" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="9EXtYGZ38USbjW5Qu-8L-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;annual transport infrastructure investment prioritisation process&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Following the annual transport infrastructure investment prioritisation process (and IIC approval), the Finance Committee confirms the funding available for the TIP.&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="290" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
