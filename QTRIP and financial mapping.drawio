@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T01:31:07.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="w_5PBKgfjkqU8rTk7g2p" version="20.7.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-13T03:19:55.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="q4luRsyFUTC-K7-rVkyZ" version="20.7.4" type="github" pages="5">
   <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
     <mxGraphModel dx="1876" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-41" value="JUNE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
           <mxGeometry x="1220" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-46" value="10. QTRIP endorsed by &lt;br&gt;Regional Directors, non-PDO Delivery Program Managers and Investment Program Senior Responsible Officers&amp;nbsp;&lt;br&gt;by 1 June.&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-46" value="QTRIP endorsed by &lt;br&gt;Regional Directors, non-PDO Delivery Program Managers and Investment Program Senior Responsible Officers&amp;nbsp;&lt;br&gt;by 1 June.&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
           <mxGeometry x="1090" y="140" width="170" height="159.38" as="geometry" />
         </mxCell>
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-76" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Delivery areas&amp;nbsp;and Business Program Managers&lt;br&gt;review draft QTRIP for accuracy and currency.&lt;br&gt;Make neccessary changes in&lt;br&gt;3PCM and feedback to PDP&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="1NMxPis9Ar9ZYOywmdkB-2" vertex="1">
@@ -128,7 +128,7 @@
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-60" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;CBRC decisions on budget submissions&lt;br&gt;circulated by Finance&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1NMxPis9Ar9ZYOywmdkB-4" vertex="1">
           <mxGeometry x="867" y="20" width="255" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1NMxPis9Ar9ZYOywmdkB-73" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;3. FInance coordinates budget submissions&lt;br&gt;across TMR (20-30 submissions). Submissions&lt;br&gt;lodged to Cab Secretarat by 23 April&lt;br&gt;(indicative and subject to change)&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1NMxPis9Ar9ZYOywmdkB-4" vertex="1">
+        <mxCell id="1NMxPis9Ar9ZYOywmdkB-73" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Finance coordinates budget submissions&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;across TMR (20-30 submissions). Submissions&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;lodged to Cab Secretariat&amp;nbsp;by 23 April&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(indicative and subject to change)&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1NMxPis9Ar9ZYOywmdkB-4" vertex="1">
           <mxGeometry x="524" y="20" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1NMxPis9Ar9ZYOywmdkB-5" value="Qld Treasury" style="swimlane;startSize=40;horizontal=0;" parent="1NMxPis9Ar9ZYOywmdkB-1" vertex="1">
@@ -391,7 +391,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X3dKkrn110yIOYmauAq2" name="Investment identification and prioritisation">
-    <mxGraphModel dx="5880" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4015" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -503,10 +503,58 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qB1oaePCXr_jAV01fKSq" name="Scenarios">
-    <mxGraphModel dx="1595" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2279" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FDmMCzxg13rdFKaYPYBz-2" value="Approved budget $ lower than approved expenditure plan" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="590" y="510" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FDmMCzxg13rdFKaYPYBz-4" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Road expenditure plan over &lt;/span&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;regulatory&lt;/span&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&amp;nbsp;period&lt;br&gt;(4-year QTRIP)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FDmMCzxg13rdFKaYPYBz-5" value="&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri;&quot;&gt;CBRC and Budget outcomes&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="590" y="150" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yBV4-98iS_f4Dqx_9OKm-1" value="&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri;&quot;&gt;Road expenditure incurred&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="960" y="150" width="660" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-1" value="&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri;&quot;&gt;Expenditure reporting&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="150" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-5" value="TMR underspends relative to approved expenditure plan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-6" value="Road expenditure lower than approved due to project delays" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="970" y="630" width="950" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-7" value="Road expenditure lower than approved due to lower than anticipated project costs" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="970" y="730" width="950" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-8" value="Budget allocation revised lower" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="970" y="830" width="950" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-9" value="&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri;&quot;&gt;True-up review&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="150" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=19;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="-390" width="50" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-11" value="Regulatory period" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="50" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-12" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Approved expenditure&amp;nbsp; significantly lower than road expenditure plan&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-13" value="&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri;&quot;&gt;Revenue and road use forecasts&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri;&quot;&gt;(HV charges set)&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="590" y="290" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-14" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Queensland collects registration revenue to QLD Treasury&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Commonwealth collects RUC to QLD Treasury&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Funding distributed to road agency&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="970" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-15" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Revenue collected from road users significantly lower than forecast&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1040" width="950" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
