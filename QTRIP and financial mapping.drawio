@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T05:08:27.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="GvZdZgIxZd8lTUaGrIfL" version="20.7.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-13T05:10:28.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="IYGY2GsPQHx9ljIAuFrm" version="20.7.4" type="github" pages="5">
   <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
-    <mxGraphModel dx="1595" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1876" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,7 +181,7 @@
             <mxPoint x="830" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMWtJVkDgTL3G8nmxIHJ-12" value="&lt;b&gt;July - December&lt;br&gt;Preparation and development of TIPPS.&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Prioritise and endorse candidate investments and program balancing (Year 5 allocation)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Confirm and update 10-year funding by Finance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TIPPS endorsed&amp;nbsp; by ICC and General Manager approval&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UMWtJVkDgTL3G8nmxIHJ-12" value="&lt;b&gt;July - December&lt;br&gt;Preparation and development of TIPPS.&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Prioritise and endorse candidate investments and program balancing (Year 5 allocation)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Confirm and update 10-year funding allocation by Finance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TIPPS endorsed&amp;nbsp; by ICC and General Manager approval (Year 5 program and funding allocation endorsed)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="80" width="170" height="290" as="geometry" />
         </mxCell>
         <mxCell id="LzJKV_o757LLN8FZL91X-20" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -202,8 +202,8 @@
         <mxCell id="LzJKV_o757LLN8FZL91X-7" value="&lt;br&gt;&lt;br&gt;SRO: Senior Responsible Officer&lt;br&gt;3PCM: Portfolio management IT system" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="LzJKV_o757LLN8FZL91X-20" vertex="1">
           <mxGeometry x="800" y="-5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LzJKV_o757LLN8FZL91X-8" value="&lt;br&gt;&lt;br&gt;ICC: Infrastructure Investment Committee" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="LzJKV_o757LLN8FZL91X-20" vertex="1">
-          <mxGeometry x="990" y="-5" width="210" height="50" as="geometry" />
+        <mxCell id="LzJKV_o757LLN8FZL91X-8" value="&lt;br&gt;&lt;br&gt;IIC: Infrastructure Investment Committee" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="LzJKV_o757LLN8FZL91X-20" vertex="1">
+          <mxGeometry x="990" y="-5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzJKV_o757LLN8FZL91X-21" value="&lt;b&gt;Key&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="25" y="1" width="40" height="30" as="geometry" />
