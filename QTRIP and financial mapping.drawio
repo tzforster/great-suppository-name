@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T03:28:26.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="6WdHYno_e76ALq_ifK6l" version="20.7.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-13T04:36:42.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="MO8zAmujjiT8YOMLXkIM" version="20.7.4" type="github" pages="5">
   <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
     <mxGraphModel dx="1876" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qB1oaePCXr_jAV01fKSq" name="Scenarios">
-    <mxGraphModel dx="2279" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1876" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -547,13 +547,22 @@
           <mxGeometry x="240" y="920" width="330" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7iVzw_37Yz7bTOYaSGkc-13" value="&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri;&quot;&gt;Revenue and road use forecasts&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri;&quot;&gt;(HV charges set)&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="590" y="290" width="330" height="110" as="geometry" />
+          <mxGeometry x="590" y="280" width="330" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="7iVzw_37Yz7bTOYaSGkc-14" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Queensland collects registration revenue to QLD Treasury&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Commonwealth collects RUC to QLD Treasury&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Funding distributed to road agency&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="960" y="290" width="970" height="110" as="geometry" />
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-14" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Queensland collects registration revenue&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="660" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7iVzw_37Yz7bTOYaSGkc-15" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Revenue collected from road users significantly lower than forecast&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="970" y="1040" width="950" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-16" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Remitted to Qld Treasury&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="290" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-17" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Remitted to Qld Treasury&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="380" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7iVzw_37Yz7bTOYaSGkc-18" value="&lt;p&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Commonwealth collects RUC revenue (the amount remitted to Qld Treasury is the difference between registration revenue received and Qld&#39;s annual revenue requirement.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="960" y="380" width="660" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
