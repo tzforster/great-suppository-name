@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T06:09:03.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="KxbqsEiGdNL-mKpg2jJu" version="20.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-24T06:11:23.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="dda1TvEh9sHT090pO3PI" version="20.8.5" type="github" pages="5">
   <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
-    <mxGraphModel dx="1595" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1876" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vq0Zf7JVb8oz-WsY0t5Z" name="Financial process">
-    <mxGraphModel dx="1876" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,7 +360,7 @@
         <mxCell id="kgao66b1QHwsTAKo6r0Z-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=1;rotation=-180;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
           <mxGeometry x="830" y="40" width="20" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="kgao66b1QHwsTAKo6r0Z-49" value="TRAILS tracks registration transactions and records them in SAP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+        <mxCell id="kgao66b1QHwsTAKo6r0Z-49" value="TRAILS tracks registration transactions and records them in SAP" style="rounded=0;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
           <mxGeometry x="107.09" y="30" width="135" height="100" as="geometry" />
         </mxCell>
         <mxCell id="R0BcNBtTmBV-_6BC8CI2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fontSize=11;fontColor=#000000;" parent="NMHns9GoFDPjdKpNw9aY-4" source="kgao66b1QHwsTAKo6r0Z-50" target="kgao66b1QHwsTAKo6r0Z-49" edge="1">
@@ -394,22 +394,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U1CDhkFfkWxzRCtm-fGj-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="140" y="20" width="20" height="20" as="geometry" />
+          <mxGeometry x="140" y="35" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U1CDhkFfkWxzRCtm-fGj-14" value="Revenue/Cash flow" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="15" width="130" height="30" as="geometry" />
+          <mxGeometry x="170" y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U1CDhkFfkWxzRCtm-fGj-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="55" width="20" height="20" as="geometry" />
+          <mxGeometry x="140" y="65" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U1CDhkFfkWxzRCtm-fGj-20" value="Funding flow" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="50" width="90" height="30" as="geometry" />
+          <mxGeometry x="170" y="60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U1CDhkFfkWxzRCtm-fGj-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="290" y="20" width="20" height="20" as="geometry" />
+          <mxGeometry x="290" y="35" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U1CDhkFfkWxzRCtm-fGj-22" value="Cash outflow" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="15" width="90" height="30" as="geometry" />
+          <mxGeometry x="320" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NJsYBB425JitK0r-qFAE-1" value="Key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="5" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
