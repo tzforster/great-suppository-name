@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T06:04:09.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="EOwPXsmSge4nEm5zALlw" version="20.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-24T06:09:03.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="KxbqsEiGdNL-mKpg2jJu" version="20.8.5" type="github" pages="5">
   <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
     <mxGraphModel dx="1595" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,11 +369,11 @@
         <mxCell id="kgao66b1QHwsTAKo6r0Z-50" value="Customer Services Branch interfaces with public to collect revenue" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
           <mxGeometry x="100" y="160" width="149.47" height="44.84" as="geometry" />
         </mxCell>
-        <mxCell id="QW4cM9V998VrkaMXxzDj-1" value="QTRIP expenditure&lt;br style=&quot;font-size: 11px;&quot;&gt;incured and recorded&lt;br&gt;through SAP&lt;br&gt;based on project code&lt;br&gt;and cost centre&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
-          <mxGeometry x="270" y="50" width="158.5" height="74.84" as="geometry" />
+        <mxCell id="QW4cM9V998VrkaMXxzDj-1" value="QTRIP expenditure&lt;br style=&quot;font-size: 12px;&quot;&gt;incured and recorded&lt;br style=&quot;font-size: 12px;&quot;&gt;through SAP&lt;br style=&quot;font-size: 12px;&quot;&gt;based on project code&lt;br style=&quot;font-size: 12px;&quot;&gt;and cost centre&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="270" y="50" width="158.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FM0lbP13WK9GgCMavknw-2" value="Non-QTRIP expenditure&lt;br&gt;in SAP based&lt;br&gt;on cost centre" style="rounded=0;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
-          <mxGeometry x="450" y="50" width="118.5" height="74.84" as="geometry" />
+        <mxCell id="FM0lbP13WK9GgCMavknw-2" value="Non-QTRIP expenditure&lt;br style=&quot;font-size: 12px;&quot;&gt;in SAP based&lt;br style=&quot;font-size: 12px;&quot;&gt;on cost centre" style="rounded=0;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NMHns9GoFDPjdKpNw9aY-4" vertex="1">
+          <mxGeometry x="450" y="50" width="118.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l4H8PvoydFz3_QBa5k2O-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NMHns9GoFDPjdKpNw9aY-1" source="kgao66b1QHwsTAKo6r0Z-53" target="kgao66b1QHwsTAKo6r0Z-55" edge="1">
           <mxGeometry relative="1" as="geometry">
