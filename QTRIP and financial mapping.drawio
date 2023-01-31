@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T23:25:56.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.87" etag="N5b1S5l3K66k8qU6NKgw" version="20.8.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-31T05:52:50.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.87" etag="1vS1KY_oJD3QeCMEoB9q" version="20.8.13" type="github" pages="6">
   <diagram id="lmJK-2yLrPPL_k1sbxFB" name="QTRIP">
-    <mxGraphModel dx="1876" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1169" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,17 +229,17 @@
         <mxCell id="LzJKV_o757LLN8FZL91X-19" value="Document" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="LzJKV_o757LLN8FZL91X-23" vertex="1">
           <mxGeometry x="285" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFmJW43FDOquwnPjAcjv-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Recommendation 1&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;expenditure plans submitted in July after QTRIP publication&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="sFmJW43FDOquwnPjAcjv-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Recommendation 1&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;expenditure plans submitted in July after QTRIP publication&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;dashed=1;dashPattern=8 8;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1480" y="530" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sFmJW43FDOquwnPjAcjv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1NMxPis9Ar9ZYOywmdkB-16" target="sFmJW43FDOquwnPjAcjv-1">
+        <mxCell id="sFmJW43FDOquwnPjAcjv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="1NMxPis9Ar9ZYOywmdkB-16" target="sFmJW43FDOquwnPjAcjv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="vq0Zf7JVb8oz-WsY0t5Z" name="Financial process">
-    <mxGraphModel dx="1595" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,7 +291,7 @@
         <mxCell id="U1CDhkFfkWxzRCtm-fGj-1" value="TMR retains 81.44% of registration revenue, reflected in TMR&#39;s funding envelope." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
           <mxGeometry x="490" y="40" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cXngUk3r2__qsvvzLPzT-1" value="&lt;b&gt;&lt;u&gt;Recommendation 3&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Fortnightly cash injection (HVRR hypothecated revenue" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;strokeWidth=3;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="NMHns9GoFDPjdKpNw9aY-2">
+        <mxCell id="cXngUk3r2__qsvvzLPzT-1" value="&lt;b&gt;&lt;u&gt;Recommendation 3&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Fortnightly cash injection (HVRR hypothecated revenue)" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;strokeWidth=3;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" parent="NMHns9GoFDPjdKpNw9aY-2" vertex="1">
           <mxGeometry x="460" y="120" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NMHns9GoFDPjdKpNw9aY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="NMHns9GoFDPjdKpNw9aY-1" source="NMHns9GoFDPjdKpNw9aY-3" target="NMHns9GoFDPjdKpNw9aY-2" edge="1">
@@ -392,7 +392,7 @@
         <mxCell id="UdNmxHdqU_Ivv4mIyDs--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.641;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" parent="NMHns9GoFDPjdKpNw9aY-1" source="kgao66b1QHwsTAKo6r0Z-55" target="FM0lbP13WK9GgCMavknw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXngUk3r2__qsvvzLPzT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="NMHns9GoFDPjdKpNw9aY-1" source="cXngUk3r2__qsvvzLPzT-1" target="kgao66b1QHwsTAKo6r0Z-55">
+        <mxCell id="cXngUk3r2__qsvvzLPzT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="NMHns9GoFDPjdKpNw9aY-1" source="cXngUk3r2__qsvvzLPzT-1" target="kgao66b1QHwsTAKo6r0Z-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U1CDhkFfkWxzRCtm-fGj-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
